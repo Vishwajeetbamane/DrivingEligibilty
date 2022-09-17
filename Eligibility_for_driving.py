@@ -1,5 +1,5 @@
 
-print("Please enter your age")
+print("Please enter your age:\n")
 var1 = int(input())
 var2 = 18
 if var1<var2:
